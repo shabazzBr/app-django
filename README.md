@@ -1,1 +1,1 @@
-# app-django
+Simples aplicação feita em django.
